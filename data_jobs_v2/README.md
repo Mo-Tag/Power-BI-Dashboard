@@ -2,6 +2,9 @@
 
 <img width="894" height="500" alt="Project2_page1" src="https://github.com/user-attachments/assets/deef9d66-015b-4ae6-ab66-036ec4ecb3ab" />
 
+Download the project file:
+https://github.com/Mo-Tag/Power-BI-Dashboard/releases/download/untagged-1900c628d80cd558d323/Data_Jobs_Dashboard.2.pbix
+
 ## Introduction
 Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (V2.0) is designed specifically for **Job Seekers, Job Transitioners, and Job Swappers** to cut through the clutter! Using a real-world dataset of 2024 data science job postings—rich with details on titles, salaries, and locations—this project offers a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
 
